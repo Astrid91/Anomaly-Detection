@@ -179,9 +179,3 @@ optimizer = Adam(lr=9e-5 ~ 2.5e-4, weight_decay=1e-5)
 | toothbrush | 100.00% | 80.00% | 85.71% |
 
 **Overall Average Accuracy: 80.21%**
-
----
-
-## License
-
-若此專案需公開釋出，建議依需求補上對應授權條款（例如 MIT License）。
